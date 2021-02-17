@@ -172,6 +172,10 @@ p {
   margin-left: 30px;
 }
 
+.sidenav-wrapper {
+  background-color: #fafbfc;
+}
+
 .sidenav {
   grid-area: sidenav;
   background: #fafbfc;
